@@ -4,15 +4,15 @@ We use python pyaudio api and deep speech models to perform real time speech to 
 The Python version uses 3.8.5 and uses any Python 3+ version. <br>
 
 # Project Structure:<br>
-	|--models<br>
-	   |--deepspeech-0.9.3-models.pbmm<br>
-	   |--deepspeech-0.9.3-models.scorer<br>
-	|--deepspeechAPI.py<br>
-	|--live_audio_stream.py<br>
+	|--models
+	   |--deepspeech-0.9.3-models.pbmm
+	   |--deepspeech-0.9.3-models.scorer
+	|--deepspeechAPI.py
+	|--live_audio_stream.py
 
-    • models  folder contain 2  deep speech models .  <br>
-    • deepspeechAPI.py contains creating the model object and adding the external scorer.<br>
-    • Live_audio_stream.py contains live audio capture and conversion into text.<br>
+    • models  folder contain 2  deep speech models .  
+    • deepspeechAPI.py contains creating the model object and adding the external scorer.
+    • Live_audio_stream.py contains live audio capture and conversion into text.
 
 # To run the project:<br>
 
