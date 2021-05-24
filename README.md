@@ -18,7 +18,7 @@ The Python version uses 3.8.5 and uses any Python 3+ version. <br>
 
 To run the project just call the file  live_audio_stream.py <br>
 	
-# $ python3 live_audio_stream.py
+   $ python3 live_audio_stream.py
 <br>
 
 # Requirements:<br>
