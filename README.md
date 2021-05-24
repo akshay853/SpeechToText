@@ -31,5 +31,5 @@ pip install wheel==0.36.2 <br>
 
 
 # Link referenced: <br>
-	https://github.com/mozilla/DeepSpeech/releases/tag/v0.9.3   <br>
+	https://github.com/mozilla/DeepSpeech/releases/tag/v0.9.3   
 https://medium.com/slanglabs/how-to-build-python-transcriber-using-mozilla-deepspeech-5485b8d234cf
